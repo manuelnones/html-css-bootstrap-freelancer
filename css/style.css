@@ -7,6 +7,10 @@
     color: #ffffff;
 }
 
+.__separator .separator-line {
+    width: 100px;
+}
+
 .__img-container{
     width: 200px;
     margin-bottom: 20px;
